@@ -9,9 +9,9 @@
 
 ## 已对接账号体系
 
-- [AAD / Azure Active Directory](#)
-- [钉钉 / DingTalk](#)
-- [腾讯企业邮箱 / Tencent Exmail](#)
+- [AAD / Azure Active Directory](https://github.com/DFocusFE/suqin-aad)
+- [钉钉 / DingTalk](https://github.com/DFocusFE/suqin-dingtalk)
+- [腾讯企业邮箱 / Tencent Exmail](https://github.com/DFocusFE/suqin-exmail)
 
 ## 使用方法
 
