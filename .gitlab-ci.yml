@@ -1,0 +1,15 @@
+image: node:latest
+test-cov:
+  only:
+    - /\[ci\]/i
+    - tags
+    - triggers
+    - schedules
+  except:
+    - /\[noci\]/i
+  before_script:
+   - npm install
+  stage: test
+  script:
+   - npm run test-cov
+  coverage: /^Statements\s*:\s*([^%]+)/
