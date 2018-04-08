@@ -1,6 +1,6 @@
 {
   "name": "suqin",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Connect kinds of account management system and expose it to unified API, so it is easy to use.",
   "main": "./lib",
   "scripts": {
